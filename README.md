@@ -5,7 +5,35 @@
 
 + The data set is official COVID data set obtained from thhis link ["COVID dataset"](https://ourworldindata.org/covid-deaths)
 
-## 2. Two methds to install the web application in your system:
+## 2. Technologies Used:
++ Following technologies are used in building the project:
+
+### I. SQL(MSQ)
++ The SQL file COVID_Data_Exploration shows SQL commands used on MSQ to explore on dataset.
++ The SQL file ------- shows the cleaning of the data using MSQ.
+
+### II. Tableau
++ The visualization was done using the tableau tool. 
++ The image named COVID_data_Tableau_Visualization.png shows the final image of visualization on tableau. 
++ This can also be seen on the link ["Tableau Visual"](https://public.tableau.com/app/profile/lakshay.lakshay/viz/Covid_Data_Visualization_16795238014980/Dashboard1?publish=yes)
+
+### III. Python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### I. Clone the github repository in your system.
 + Create a new folder in your system with any name.
