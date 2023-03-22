@@ -3,7 +3,7 @@
 
 ## 1. Dataset
 
-+ [The data set is official COVID data set obtained from thhis link "COVID dataset"](https://ourworldindata.org/covid-deaths)
++ The data set is official COVID data set obtained from thhis link ["COVID dataset"](https://ourworldindata.org/covid-deaths)
 
 ## 2. Two methds to install the web application in your system:
 
